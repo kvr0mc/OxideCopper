@@ -74,4 +74,4 @@ Copper Oxide Controll for Minecraft 1.21
 - `oxide_copper:copper_door`
 
 ### known bug
-- can't replace copper_door ([MC-160562](https://bugs.mojang.com/browse/MC-160562))
+- can't replace copper_door ([MC-267061](https://bugs.mojang.com/browse/MC-267061))
