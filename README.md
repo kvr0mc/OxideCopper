@@ -1,6 +1,6 @@
 # Oxide Copper
 
-Copper Oxide Controll for Minecraft 1.21
+Copper Oxide Control for Minecraft 1.21
 
 ### How to use
 **Oxidize**
