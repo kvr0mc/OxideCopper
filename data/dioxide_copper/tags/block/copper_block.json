@@ -1,0 +1,8 @@
+{
+    "values": [
+        "#dioxide_copper:non_oxidized",
+        "#dioxide_copper:exposed_block",
+        "#dioxide_copper:weathered_block",
+        "#dioxide_copper:oxidized_block"
+    ]
+}

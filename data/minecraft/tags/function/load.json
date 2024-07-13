@@ -1,6 +1,6 @@
 {
     "values":[
-        "mypack:load"
+        "dioxide_copper:core/load"
     ],
     "replace":false
 }

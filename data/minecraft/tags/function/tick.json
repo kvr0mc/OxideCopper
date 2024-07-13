@@ -1,6 +1,6 @@
 {
     "values":[
-        "mypack:tick"
+        "dioxide_copper:core/tick"
     ],
     "replace":false
 }

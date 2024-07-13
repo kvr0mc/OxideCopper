@@ -1,3 +1,3 @@
-# DatapackTemplate
+# Dioxide Copper
 
-Datapack template for Minecraft 1.21
+Copper Dioxide Controll for Minecraft 1.21
