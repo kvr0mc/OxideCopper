@@ -1,3 +1,3 @@
-# Dioxide Copper
+# Oxide Copper
 
-Copper Dioxide Controll for Minecraft 1.21
+Copper Oxide Controll for Minecraft 1.21
